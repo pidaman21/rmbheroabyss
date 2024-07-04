@@ -3,7 +3,7 @@ import pyautogui
 import time
 
 enterabyss = "enterabyss.png"
-chooseabyss = "test.png"
+chooseabyss = "chooseabys.png"
 challenge = "challange.png"
 plusone = "plusone.png"
 
