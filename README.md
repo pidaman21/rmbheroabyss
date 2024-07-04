@@ -39,6 +39,4 @@ To do:
 
  randomize button press location 
 
- add example picture
-
- check for full back / scrap 
+ check for full backpack / scrap 
