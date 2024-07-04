@@ -19,8 +19,8 @@ runtimer = 60
 
 ####################dont change anything here#############################
 def checkBlessing(resImage,blessing,a):
-    if resImage == "challange.png":
-        #only loop 5 times to prevent stuck on challange screen
+    if resImage == challenge:
+        #only loop 5 times to prevent stuck on challenge screen
         while a < 6:
             for b in blessing:
                 try:
