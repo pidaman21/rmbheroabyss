@@ -4,7 +4,7 @@ import time
 
 enterabyss = "enterabyss.png"
 chooseabyss = "chooseabys.png"
-challenge = "challange.png"
+challenge = "challenge.png"
 plusone = "plusone.png"
 
 blessingDmg = "dmg.png"
