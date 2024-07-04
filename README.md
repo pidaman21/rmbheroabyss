@@ -29,8 +29,8 @@ This is a Pixelbot if you change your resolution or the size of your Emulator Wi
  	copy the script into the folder 
   	Start you game and take the screenshots (windows snipingtool) of every button or blessing (check example pictures)
    	copy the screenshot into the same folder
-    	open the script in notepad 
-     	edit the names in "" to match your screenshot names
+	open the script in notepad 
+	edit the names in "" to match your screenshot names
 	save the script 
  	open cmd and navigate to the folder 
  	run the script via cmd 
