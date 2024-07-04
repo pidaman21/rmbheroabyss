@@ -20,3 +20,12 @@ open cmd install dependencies:
  
 
 This is a Pixelbot if you change your resolution or the size of your Emulator Window you need to provide new Pictures. 
+
+
+To do:
+
+ randomize button press location 
+
+ add example picture
+
+ check for full back / scrap 
