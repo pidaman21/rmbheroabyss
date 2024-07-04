@@ -1,5 +1,7 @@
 # rmbheroabyss
 
+this is a third-party app, use at your own risk.
+
 Download and install Python:
 
 	install https://www.python.org/
